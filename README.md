@@ -35,15 +35,6 @@ topic/
 ├── filter_holyrood_students.py         # Holyrood student transition data (week-aware)
 ├── baseline_analysis.py                # Baseline data analysis (11 metrics + visualisation)
 │
-│  ── LaTeX reports ──
-├── latex/
-│   ├── data_description.tex            # Raw data description and statistics
-│   ├── model_formulations.tex          # Q1 two-stage MIP model formulation
-│   ├── report_q1.tex                   # Q1 results analysis report
-│   ├── report_q1_travel_optimisation.tex  # Q1 travel optimisation report
-│   ├── deliverable_report.tex          # Deliverable report
-│   └── mid_project_report.tex          # Mid-project report
-│
 │  ── Raw data (read-only) ──
 ├── course_timtabling/                  # Note spelling: "timtabling"
 │   ├── Rooms and Room Types.xlsx           # 649 rooms, inter-campus travel times
