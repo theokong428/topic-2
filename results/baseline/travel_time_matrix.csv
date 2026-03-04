@@ -1,0 +1,9 @@
+CampusFrom,Bioquarter,Central,Easter Bush,Holyrood,King's Buildings,Lauriston,New College,Western General
+Bioquarter,0,60,60,60,60,60,60,60
+Central,60,0,60,10,30,10,10,60
+Easter Bush,60,60,0,60,60,60,60,60
+Holyrood,60,10,60,0,30,10,10,60
+King's Buildings,60,30,60,30,0,30,30,60
+Lauriston,60,10,60,10,30,0,10,60
+New College,60,10,60,10,30,10,0,60
+Western General,60,60,60,60,60,60,60,0

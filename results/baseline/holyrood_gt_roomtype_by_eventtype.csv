@@ -1,0 +1,27 @@
+Event Type,Boardroom Style,Classroom Style,Group Cluster Style,Lecture Theatre
+Activity,363,173,25,0
+Breakout,69,123,0,0
+Class Test,0,1,0,0
+Computer Workshop,0,1,0,0
+Discussion Workshop,28,68,0,0
+EXAM,3,7,0,0
+Feedback,0,2,1,0
+Fieldwork,1,1,0,0
+Groupwork,7,16,0,0
+Jointly Taught Seminar,0,5,0,0
+Laboratory,0,1,0,0
+Lecture,11,344,0,79
+Lecture_&_Workshops,16,31,0,0
+Meeting,1,4,0,0
+Oral Presentation,11,11,1,0
+Other,0,20,0,0
+Practical,1,18,0,1
+Presentation,21,0,0,0
+Q&A Session,0,2,0,0
+Self Study,1,0,0,0
+Seminar,53,203,0,2
+Seminar set 1,7,23,0,1
+Seminar set 2,1,0,0,0
+Seminar set 3,1,3,0,0
+Tutorial,74,151,0,0
+Workshop,148,462,1,1
